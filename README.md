@@ -52,7 +52,7 @@ Sou apaixonado por construir soluções digitais que sejam eficientes, escaláve
       <h3 align="center">Vision Meet</h3>
       <p>Plataforma web para conectar psicólogos a supervisores clínicos. Desenvolvido como projeto de feira tecnológica (FETEPS), focado em resolver uma necessidade real da minha área de formação anterior.</p>
       <p align="center">
-        <b><a href="visionmeet-projeto.vercel.app">Acessar Projeto</a></b>
+        <b><a href="https://visionmeet-projeto.vercel.app">Acessar Projeto</a></b>
       </p>
       <p align="center">
         <i><strong>Stack:</strong> Angular, TypeScript, Node.js, Firebase</i>
